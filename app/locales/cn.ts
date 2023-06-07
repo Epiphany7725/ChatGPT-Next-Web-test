@@ -164,7 +164,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: `### 有什么可以帮你的吗 **789** ![图片](https://raw.githubusercontent.com/Epiphany7725/ChatGPT-Next-Web-test/main/public/%E7%A8%8B%E5%BA%8F%E7%95%8C%E9%9D%A2%E5%9B%BE.JPG)`,
+    BotHello: `### 有什么可以帮你的吗 **789** ![图片](./wechat_pay)`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
