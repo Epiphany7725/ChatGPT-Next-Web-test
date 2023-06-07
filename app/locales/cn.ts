@@ -164,7 +164,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: `###有什么可以帮你的吗 **789** ![图片]/程序界面图.JPG`,
+    BotHello: `### 有什么可以帮你的吗 **789** ![图片]/public/程序界面图.JPG`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
