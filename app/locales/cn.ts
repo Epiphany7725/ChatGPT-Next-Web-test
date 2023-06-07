@@ -164,7 +164,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: `### 赞赏一下吧 **789**\n\n![图片](/wechat_pay.jpg)\n\n <img src="/wechat_pay.jpg" alt="微信支付" style="width:50%;height:50%">`,
+    BotHello: `<img src="https://github.com/Epiphany7725/ChatGPT-Next-Web-test/blob/main/public/wechat_pay.jpg?raw=true" alt="微信支付" style="width:50%;height:50%">`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
